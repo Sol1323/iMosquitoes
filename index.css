@@ -51,7 +51,7 @@ body {
   background: #74AD2E;
   color: #E9F3DA;
   transform: rotateY(180deg);
-  text-align: -webkit-left;
+  text-align: left;
   font-size: 15px;
 }
 
