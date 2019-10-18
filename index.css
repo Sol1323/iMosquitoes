@@ -1,0 +1,12 @@
+body {
+  font-family: 'Whitney',"Trebuchet MS",Arial,sans-serif;
+}
+
+.nav-link {
+  background-color: #565656;
+  color: #FFFFFF;
+}
+
+a.nav-link.active {
+  background-color: #86A92F !important;
+}
